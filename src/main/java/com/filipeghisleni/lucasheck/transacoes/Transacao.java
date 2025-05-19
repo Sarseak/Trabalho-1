@@ -19,4 +19,5 @@ public class Transacao {
     public ZonedDateTime getDataHora() {
         return dataHora;
     }
+    
 }
